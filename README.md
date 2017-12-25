@@ -4,7 +4,7 @@ I have built this app which basically performs face recognition. Presently, the 
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/both_yes.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/successful_three.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/katrina_no.png)
-![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/four.png)
+![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/Four.png)
 # Home Page
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/homepage.png)
 # Hosting
