@@ -6,7 +6,7 @@ I have built this app which basically performs face recognition. Presently, the 
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/katrina_no.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/Four.png)
 # Home Page
-![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/homepage.png)
+![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/homepage_1.png)
 # Hosting
 The app is hosted [here](http://139.59.67.15/).
 # Improvements
