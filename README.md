@@ -10,5 +10,5 @@ I have built this app which basically performs face recognition. Presently, the 
 # Hosting
 The app is hosted [here](http://139.59.67.15/).
 # Improvements
-The app mis-recognizes faces at times and hence,I am working to increase the recognition accuracy. Any other suggestions for improvement are most welcome. Cheers !
+I am currently working to increase the recognition accuracy as the app mis-recognizes faces at times. Any other suggestions for improvement are most welcome. Cheers !
 
