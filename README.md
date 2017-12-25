@@ -1,9 +1,10 @@
 # Face Recognizer Web Application
-I have built this app which basically performs face recognition.
+I have built this app which basically performs face recognition. Presently, the app is trained for Narendra Modi and Arvind Kejriwal.
 # Sample Outputs
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/both_yes.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/successful_three.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/katrina_no.png)
+![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/four.png)
 # Home Page
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/homepage.png)
 # Hosting
