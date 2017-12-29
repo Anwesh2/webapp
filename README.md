@@ -1,5 +1,5 @@
 # Face Recognizer Web Application
-I have built this app which basically performs face recognition. Presently, the app is trained for Narendra Modi and Arvind Kejriwal.
+This app performs face recognition and presently, it is trained for Narendra Modi and Arvind Kejriwal. It is hosted [here](http://139.59.67.15/) using Nginx and Gunicorn. 
 # Sample Outputs
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/both_yes.png)
 ![alt text](https://github.com/Anwesh2/face_recognizer_webapp/blob/master/faceapp/successful-outputs-screenshots/successful_three.png)
